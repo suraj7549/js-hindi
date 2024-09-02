@@ -1,0 +1,10 @@
+let a=10;  local 
+const b=13; also be local
+var c=30; globle not prefer to use 
+if(true)
+{
+    console.log(a);
+    console.log(b);
+    console.log(c);
+}
+
